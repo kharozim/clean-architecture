@@ -3,5 +3,5 @@ simple list with clean architecture, mvvm, paging 3, loadstate adapter, retrofit
 
 Clean architecture
 -----------------
-![sample list](https://github.com/android10/Sample-Data/blob/master/Android-CleanArchitecture/clean_architecture.png)
+![sample list](https://github.com/kharozim/clean-architecture/blob/main/assets/list-pagination.gif)
 
