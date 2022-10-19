@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Clean Architecture</string>
+    <string name="list_pagination">List Pagination</string>
+    <string name="picsum_page">Picsum Page</string>
+    <string name="list_pagination_paging_3">List Pagination Paging 3</string>
+    <string name="retry">Retry</string>
+    <string name="paging_3_hilt"><![CDATA[Paging 3 & hilt]]></string>
+</resources>
