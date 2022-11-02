@@ -5,3 +5,4 @@ Clean architecture
 -----------------
 ![sample list](https://github.com/kharozim/clean-architecture/blob/main/assets/list-pagination.gif)
 
+    

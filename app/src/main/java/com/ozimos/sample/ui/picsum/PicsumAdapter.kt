@@ -43,8 +43,11 @@ class PicsumAdapter(private val items: MutableList<Coba>) :
         } else {
             val itemIndex = items.find { it is Coba.Error }
             val index = items.indexOf(itemIndex)
-            items.removeAt(index)
-            notifyItemRemoved(index)
+            if(index != -1){
+                items.removeAt(index)
+                notifyItemRemoved(index)
+            }
+
         }
     }
 
